@@ -1,0 +1,67 @@
+h1{
+    text-align: center;
+    font-family: sans-serif;
+    text-decoration: underline;
+    color: gray;
+}
+
+h2{
+    font-family: sans-serif;
+    text-decoration: underline;
+    font-weight: lighter;
+    color: gray;
+}
+
+ul{
+    list-style: none;
+    font-family: serif;
+}
+
+ol{
+    list-style: none;
+    font-family: serif
+}
+
+p{
+    font-family: serif;
+}
+
+body{
+    background-color: aliceblue;
+}
+
+.first{
+    background-color: floralwhite;
+}
+
+.second{
+    background-color: floralwhite;
+}
+
+.third{
+    background-color: floralwhite;
+}
+
+.fourth{
+    background-color: floralwhite;
+}
+
+.fifth{
+    background-color: floralwhite;
+}
+
+.sixth{
+    background-color: floralwhite;
+}
+
+h3{
+    font-family: sans-serif;
+    text-decoration: underline;
+    font-weight: lighter;
+    color: gray;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+}
